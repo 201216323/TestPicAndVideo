@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\android-studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/RecordVideo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bga-refresh-app" />
+            <option value="$PROJECT_DIR$/bga-refresh-library" />
+            <option value="$PROJECT_DIR$/circle-app" />
+            <option value="$PROJECT_DIR$/circular-progress-button-app" />
+            <option value="$PROJECT_DIR$/circular-progress-button-library" />
+            <option value="$PROJECT_DIR$/image-picker-app" />
+            <option value="$PROJECT_DIR$/imagep-picker-library" />
+            <option value="$PROJECT_DIR$/nine-grid-layout-app" />
+            <option value="$PROJECT_DIR$/paypwdedittext" />
+            <option value="$PROJECT_DIR$/progress-button-app" />
+            <option value="$PROJECT_DIR$/qupai" />
+            <option value="$PROJECT_DIR$/record-video-app" />
+            <option value="$PROJECT_DIR$/record-video-library" />
+            <option value="$PROJECT_DIR$/submit-button-app" />
+            <option value="$PROJECT_DIR$/submitbutton-library" />
+            <option value="$PROJECT_DIR$/super-video-player-app" />
+            <option value="$PROJECT_DIR$/vitamio" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

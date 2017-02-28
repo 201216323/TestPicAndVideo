@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RecordVideo/RecordVideo.iml" filepath="$PROJECT_DIR$/RecordVideo/RecordVideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestPicAndVideo.iml" filepath="$PROJECT_DIR$/TestPicAndVideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bga-refresh-app/bga-refresh-app.iml" filepath="$PROJECT_DIR$/bga-refresh-app/bga-refresh-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bga-refresh-library/bga-refresh-library.iml" filepath="$PROJECT_DIR$/bga-refresh-library/bga-refresh-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circle-app/circle-app.iml" filepath="$PROJECT_DIR$/circle-app/circle-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circular-progress-button-app/circular-progress-button-app.iml" filepath="$PROJECT_DIR$/circular-progress-button-app/circular-progress-button-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circular-progress-button-library/circular-progress-button-library.iml" filepath="$PROJECT_DIR$/circular-progress-button-library/circular-progress-button-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/image-picker-app/image-picker-app.iml" filepath="$PROJECT_DIR$/image-picker-app/image-picker-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagep-picker-library/imagep-picker-library.iml" filepath="$PROJECT_DIR$/imagep-picker-library/imagep-picker-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nine-grid-layout-app/nine-grid-layout-app.iml" filepath="$PROJECT_DIR$/nine-grid-layout-app/nine-grid-layout-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paypwdedittext/paypwdedittext.iml" filepath="$PROJECT_DIR$/paypwdedittext/paypwdedittext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progress-button-app/progress-button-app.iml" filepath="$PROJECT_DIR$/progress-button-app/progress-button-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qupai/qupai.iml" filepath="$PROJECT_DIR$/qupai/qupai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/record-video-app/record-video-app.iml" filepath="$PROJECT_DIR$/record-video-app/record-video-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/record-video-library/record-video-library.iml" filepath="$PROJECT_DIR$/record-video-library/record-video-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/submit-button-app/submit-button-app.iml" filepath="$PROJECT_DIR$/submit-button-app/submit-button-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/submitbutton-library/submitbutton-library.iml" filepath="$PROJECT_DIR$/submitbutton-library/submitbutton-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-video-player-app/super-video-player-app.iml" filepath="$PROJECT_DIR$/super-video-player-app/super-video-player-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio/vitamio.iml" filepath="$PROJECT_DIR$/vitamio/vitamio.iml" />
+    </modules>
+  </component>
+</project>
