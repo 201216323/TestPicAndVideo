@@ -8,12 +8,12 @@
         "source": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\circle-app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable-xhdpi-v4\\theme_qupai_default_btn_edit_overlay_rotate_normal.png"
     },
     {
-        "merged": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\circle-app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qupai_editor_special_font_icon.png",
-        "source": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\circle-app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable-xhdpi-v4\\qupai_editor_special_font_icon.png"
-    },
-    {
         "merged": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\circle-app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\beauty_screen_show_15.png",
         "source": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\circle-app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable-xhdpi-v4\\beauty_screen_show_15.png"
+    },
+    {
+        "merged": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\circle-app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qupai_editor_special_font_icon.png",
+        "source": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\circle-app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable-xhdpi-v4\\qupai_editor_special_font_icon.png"
     },
     {
         "merged": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\circle-app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\more_parser_diy_tag_lock.png",
@@ -136,12 +136,12 @@
         "source": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\circle-app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable-xhdpi-v4\\btn_qupai_photo_flashlight_auto.png"
     },
     {
-        "merged": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\circle-app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\beauty_screen_show_20.png",
-        "source": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\circle-app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable-xhdpi-v4\\beauty_screen_show_20.png"
-    },
-    {
         "merged": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\circle-app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\circle-app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\circle-app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\beauty_screen_show_20.png",
+        "source": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\circle-app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable-xhdpi-v4\\beauty_screen_show_20.png"
     },
     {
         "merged": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\circle-app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_video_qupai_recorder_22.png",

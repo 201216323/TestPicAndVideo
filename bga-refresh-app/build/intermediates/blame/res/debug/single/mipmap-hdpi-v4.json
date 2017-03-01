@@ -28,10 +28,6 @@
         "source": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\bga-refresh-app\\build\\intermediates\\exploded-aar\\cn.bingoogolapple\\bga-refreshlayout\\1.1.7\\res\\mipmap-hdpi-v4\\bga_refresh_loading01.png"
     },
     {
-        "merged": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\bga-refresh-app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\bga_refresh_loading08.png",
-        "source": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\bga-refresh-app\\build\\intermediates\\exploded-aar\\cn.bingoogolapple\\bga-refreshlayout\\1.1.7\\res\\mipmap-hdpi-v4\\bga_refresh_loading08.png"
-    },
-    {
         "merged": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\bga-refresh-app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\bga_refresh_loading07.png",
         "source": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\bga-refresh-app\\build\\intermediates\\exploded-aar\\cn.bingoogolapple\\bga-refreshlayout\\1.1.7\\res\\mipmap-hdpi-v4\\bga_refresh_loading07.png"
     },
@@ -42,6 +38,10 @@
     {
         "merged": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\bga-refresh-app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\bga_refresh_loading12.png",
         "source": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\bga-refresh-app\\build\\intermediates\\exploded-aar\\cn.bingoogolapple\\bga-refreshlayout\\1.1.7\\res\\mipmap-hdpi-v4\\bga_refresh_loading12.png"
+    },
+    {
+        "merged": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\bga-refresh-app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\bga_refresh_loading08.png",
+        "source": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\bga-refresh-app\\build\\intermediates\\exploded-aar\\cn.bingoogolapple\\bga-refreshlayout\\1.1.7\\res\\mipmap-hdpi-v4\\bga_refresh_loading08.png"
     },
     {
         "merged": "D:\\Administrator\\AndroidStudioProjects\\TestPicAndVideo\\bga-refresh-app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\bga_refresh_loading02.png",
